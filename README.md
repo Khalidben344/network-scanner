@@ -19,6 +19,6 @@ It provides several options to detect live hosts, scan open ports, and analyze s
 No extra dependencies are required (Python 3.x only).  
 
 ```bash
-git clone https://github.com/yourusername/network-scanner.git
+git clone https://github.com/khalidben344/network-scanner.git
 cd network-scanner
 python network_scanner.py
